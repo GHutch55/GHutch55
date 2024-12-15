@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thuq123
+- 👀 I’m interested in ... Everything!
+- 🌱 I’m currently learning ... JavaScript
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I'm cool ig...
