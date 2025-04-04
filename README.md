@@ -1,6 +1,6 @@
 Hi, I'm Grant, a freshman at Otterbein University studying Computer Science with a minor in Mathematics!
 
-My current interests are the language Rust, and data structures and algorithms!
+My current interests are Golang, and data structures and algorithms!
 
 Currently Studying in School:
 	Java,
