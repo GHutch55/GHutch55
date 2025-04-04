@@ -9,8 +9,8 @@ Currently Studying in School:
 
 Hobbies:
 	Brazilian Jiu-Jitsu,
-	Disc Golf,
+	Disc Golf.
 
 Contact information:
 	Personal Email: granthutch55@gmail.com ,
-	Discord: .thuq .
+	Discord: .thuq 
