@@ -1,4 +1,4 @@
-Hi, I'm Grant, a freshman at Otterbein University studying Computer Science with a minor in Mathematics!
+Hi, I'm Grant, a sophomore at Otterbein University studying Computer Science with a minor in Mathematics!
 
 My current interests are Golang, and data structures and algorithms!
 
