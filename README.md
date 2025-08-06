@@ -1,15 +1,11 @@
 Hi, I'm Grant, a sophomore at Otterbein University studying Computer Science with a minor in Mathematics!
 
-My current interests are App Development
+My current interest is Golang
 
 Currently Studying in School:
 	Java,
 	Web Development,
 	Data Structures and Algorithms,
-
-Hobbies:
-	Brazilian Jiu-Jitsu,
-	Disc Golf.
 
 Contact information:
 	Personal Email: granthutch55@gmail.com ,
