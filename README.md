@@ -1,6 +1,6 @@
 Hi, I'm Grant, a sophomore at Otterbein University studying Computer Science with a minor in Mathematics!
 
-My current interest is Golang
+My current interest is Golang and React
 
 Currently Studying in School:
 	Java,
