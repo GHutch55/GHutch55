@@ -1,6 +1,6 @@
 Hi, I'm Grant, a sophomore at Otterbein University studying Computer Science with a minor in Mathematics!
 
-My current interest is Golang and React
+My current interest is backend development in Go
 
 Currently Studying in School:
 	Java,
@@ -8,5 +8,5 @@ Currently Studying in School:
 	Data Structures and Algorithms,
 
 Contact information:
-	Personal Email: granthutch55@gmail.com ,
+	Personal Email: granthutch55@gmail.com,
 	Discord: .thuq 
